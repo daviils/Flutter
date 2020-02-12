@@ -1,0 +1,17 @@
+git pull
+
+git status
+
+git add .
+
+git commit -m "comentario"
+
+git push
+
+
+
+
+ git config --global user.email "davidsilvaluis@hotmail.com"
+ git config --global user.name "David Silva"
+
+.pcoded[fream-type="theme1"]
